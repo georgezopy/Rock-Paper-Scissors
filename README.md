@@ -1,1 +1,1 @@
-# Rock-Papper-Scissors game in Python
+# Rock-Paper-Scissors game in Python
